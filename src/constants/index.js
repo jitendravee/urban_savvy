@@ -1,18 +1,10 @@
-import { CiSearch } from "react-icons/ci";
 import { MdFavoriteBorder } from "react-icons/md";
 import { RiAccountCircleFill } from "react-icons/ri";
 import { FaShare } from "react-icons/fa";
 import { MdOutlineForwardToInbox } from "react-icons/md";
 import { FaShoppingCart } from "react-icons/fa";
 export const linkList = [
-    {
-        id:"1",
-    href:"/",
-    tag:"Search",
-    icon:<CiSearch />
-
-},
-    {
+     {
         id:"2",
     href:"/account",
     tag:"",
